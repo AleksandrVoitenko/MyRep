@@ -7,5 +7,6 @@ double MySum(double, double);
 double MySum(double, double);
 double MyMul(double, double);
 double MyDiv(double, double);
+double MyPow(double, double);
 
 #endif
